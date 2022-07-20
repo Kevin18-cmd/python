@@ -5,5 +5,6 @@ friends = []
 friends.append(name1)
 friends.append(name2)
 friends.append(name3)
-friends.sort()
+friends.reverse()
+friends.insert(0,"Jr")
 print(friends)
