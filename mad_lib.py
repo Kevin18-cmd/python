@@ -1,0 +1,6 @@
+color  = input ("whats your favourite color\n")
+plural_noun = input ("Enter favourite word\n")
+celebrity = input ("whos is your favourite celebrity\n")
+print("roses are "+ color)
+print ("life is "+ plural_noun)
+print ("but, i love "+ celebrity)
