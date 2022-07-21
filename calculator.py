@@ -1,7 +1,12 @@
-char =int( input ("enter first number\n "))
-char1 = int( input ("enter second number\n "))
+start=input ()
+start= int(start) 
+if start == start:
+ char =int( input ("enter first number\n "))
 print ("press 1 for multiplication, 2 for additiion, 3 for subtraction and 4 for division")
 cat1 = input()
+char1 = int( input ("enter second number\n "))
+#5print ("press 1 for multiplication, 2 for additiion, 3 for subtraction and 4 for division")
+#cat1 = input()
 cat=int(cat1)
 if cat == 1:
     print ("the answer is " + str(char*char1))
