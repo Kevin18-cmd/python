@@ -12,3 +12,4 @@ def greet(name,age):
     print("hello "+name+" youre "+str(age)+" years old")
 greet(names[0],age[0])
 greet(names[1],age[1])
+print("thanks for participating")
