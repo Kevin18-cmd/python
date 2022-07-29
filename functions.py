@@ -1,3 +1,4 @@
+
 name = input ("what is your name :\n")
 age1 = input ("how old are you:\n")
 name2 = input ("whats your name:\n")
@@ -13,3 +14,5 @@ def greet(name,age):
 greet(names[0],age[0])
 greet(names[1],age[1])
 print("thanks for participating")
+
+
