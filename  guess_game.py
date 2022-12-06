@@ -1,4 +1,4 @@
-secret_word = "computer"
+secret_word =["computer","phone","Television","laptop"]
 guess_word =""
 guess_limit = 3
 guess_count = 0
@@ -32,6 +32,6 @@ else:
             print ("aww..sorry you cant continue, but hey you go the first one right")   
     else :
           total = str(number)
-          print("well thank you for playing, you win " + total)     
+          print("well thank you for playing, you win and sum off your numbers is " + total)     
   
   
